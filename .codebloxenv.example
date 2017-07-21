@@ -1,2 +1,10 @@
+#Mailgun
 MAILGUN_API_KEY=SUPER SECRET
 MAILGUN_DOMAIN=SUPER SECRET
+
+#User
+USER_EMAIL=your@email.com
+
+#Mail
+SEQUENCE_NAME=Rain Today bitch!
+SEQUENCE_DESCRIPTION=Get a fucking umbrella

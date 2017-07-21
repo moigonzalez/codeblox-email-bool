@@ -11,7 +11,7 @@ module.exports.default = (event, context, callback) => {
 
   if (event.input === true) {
     const mail = mailcomposer({
-      from: `codeblox <transport@codeblox.io>`,
+      from: `Rainator <moigonzit@gmail.com>`,
       to: process.env.USER_EMAIL,
       subject: sequenceName,
       html: `${sequenceName}<br>${sequenceDescription}`
