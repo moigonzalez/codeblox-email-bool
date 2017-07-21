@@ -1,0 +1,12 @@
+{
+  "name": "email-boolean",
+  "version": "1.0.2",
+  "description": "Emails sequence name if boolean is true",
+  "directions": "",
+  "keywords": [
+    "email",
+    "boolean"
+  ],
+  "input": "boolean",
+  "output": "boolean"
+}
